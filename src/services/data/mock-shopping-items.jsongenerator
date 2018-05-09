@@ -1,0 +1,11 @@
+[
+  '{{repeat(300)}}',
+  {
+    id: '{{guid()}}',
+    name: '{{random("Ziemniaki", "Cebula", "Jabłka", "Ocet", "Pieprz czarny", "Cukier brązowy", "Oliwa", "Piwo", "Wino białe wytrawne", "Mąka", "Kasza gryczana", "Tuńczyk", "Płyn do prania", "Płatki chocapic", "Cornflakes", "Granola", "Worki na kupy", "Papier toaletowy", "Jedzenie dla psa", "Sianko dla królika", "Płyn do płukania", "Płyn do naczyń")}}',
+    amount: "{{random(integer(1, 10), null)}}",
+    price: "{{random(floating(1, 40, 2), null)}}",
+    isChecked: "{{bool()}}",
+    date: "{{date(new Date(2018, 0, 1), new Date(2018, 1, 28))}}"
+  }
+]

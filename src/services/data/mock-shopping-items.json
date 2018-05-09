@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "17840605-d239-428f-bf43-e268969e7dc6",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": 10.86,
+    "isChecked": false,
+    "date": "Thu Feb 08 2018 08:21:09 GMT+0100 (CET)"
+  },
+  {
+    "id": "6417174c-46ae-4748-b629-5f3c19a179a0",
+    "name": "Wino białe wytrawne",
+    "amount": 9,
+    "price": null,
+    "isChecked": true,
+    "date": "Mon Feb 12 2018 13:16:45 GMT+0100 (CET)"
+  },
+  {
+    "id": "8e3cdbdf-e2b4-492c-a709-ad7bcdc04ac0",
+    "name": "Oliwa",
+    "amount": 6,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Feb 22 2018 02:30:37 GMT+0100 (CET)"
+  },
+  {
+    "id": "c0ae00f6-44cc-4ef9-9faa-d7fc87b85702",
+    "name": "Tuńczyk",
+    "amount": 8,
+    "price": 34.23,
+    "isChecked": false,
+    "date": "Sat Jan 13 2018 20:31:46 GMT+0100 (CET)"
+  },
+  {
+    "id": "5b2bc8c1-42fe-46ca-973e-c7d5f08aa40d",
+    "name": "Płyn do prania",
+    "amount": null,
+    "price": 34.64,
+    "isChecked": true,
+    "date": "Tue Feb 27 2018 11:33:28 GMT+0100 (CET)"
+  },
+  {
+    "id": "0cf39608-6a45-4402-93f7-2dbc065dac3c",
+    "name": "Płyn do płukania",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Jan 21 2018 22:13:01 GMT+0100 (CET)"
+  },
+  {
+    "id": "61d795b8-9b0b-483a-ad85-eef28d149ad6",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Feb 06 2018 14:58:05 GMT+0100 (CET)"
+  },
+  {
+    "id": "3da3ceb9-c5d7-4f46-973f-90bb65577c2d",
+    "name": "Granola",
+    "amount": null,
+    "price": 8.96,
+    "isChecked": false,
+    "date": "Wed Jan 24 2018 16:14:43 GMT+0100 (CET)"
+  },
+  {
+    "id": "a6858998-b4c4-4bb6-a8d2-b65bafa0d05e",
+    "name": "Ziemniaki",
+    "amount": null,
+    "price": 20.02,
+    "isChecked": true,
+    "date": "Sat Jan 06 2018 11:13:26 GMT+0100 (CET)"
+  },
+  {
+    "id": "0860e545-66bd-4f27-9df4-9bf0a0a1f7c9",
+    "name": "Płyn do płukania",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Jan 02 2018 03:50:38 GMT+0100 (CET)"
+  },
+  {
+    "id": "fd9aeab1-3d8b-461c-a264-69a4bf6e4ca3",
+    "name": "Oliwa",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Feb 16 2018 22:37:43 GMT+0100 (CET)"
+  },
+  {
+    "id": "03ca4c93-a480-4d46-a805-4e778f5f8c29",
+    "name": "Jabłka",
+    "amount": 9,
+    "price": 37.42,
+    "isChecked": true,
+    "date": "Thu Jan 11 2018 05:25:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "3aac42f4-4846-4296-a738-7c6ae18f318e",
+    "name": "Granola",
+    "amount": 7,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Feb 06 2018 19:44:04 GMT+0100 (CET)"
+  },
+  {
+    "id": "b491bc14-089d-46a0-9ca6-40671749f39a",
+    "name": "Kasza gryczana",
+    "amount": null,
+    "price": 14.69,
+    "isChecked": true,
+    "date": "Thu Jan 18 2018 20:17:44 GMT+0100 (CET)"
+  },
+  {
+    "id": "2dd73413-317f-4a84-a092-a10f7e22f361",
+    "name": "Oliwa",
+    "amount": 10,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Feb 18 2018 15:08:58 GMT+0100 (CET)"
+  },
+  {
+    "id": "78b8e3b5-6662-4b5a-bd7f-92d330566c66",
+    "name": "Oliwa",
+    "amount": null,
+    "price": 35.13,
+    "isChecked": false,
+    "date": "Fri Jan 05 2018 17:55:29 GMT+0100 (CET)"
+  },
+  {
+    "id": "62a6331f-c28a-4a0a-a62e-bcffa0b858ff",
+    "name": "Płyn do płukania",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sun Feb 04 2018 01:13:21 GMT+0100 (CET)"
+  },
+  {
+    "id": "9834afff-65ab-4b14-a63b-1487af273edd",
+    "name": "Granola",
+    "amount": 8,
+    "price": 38.39,
+    "isChecked": true,
+    "date": "Sat Jan 20 2018 13:34:27 GMT+0100 (CET)"
+  },
+  {
+    "id": "6a11f7bb-63d2-47b0-be0a-abff3e767e68",
+    "name": "Sianko dla królika",
+    "amount": 3,
+    "price": 16.79,
+    "isChecked": true,
+    "date": "Fri Feb 16 2018 07:55:32 GMT+0100 (CET)"
+  },
+  {
+    "id": "b54df3b6-d8b0-4e3e-913a-2eeb77e712ee",
+    "name": "Granola",
+    "amount": 1,
+    "price": 35.25,
+    "isChecked": true,
+    "date": "Mon Jan 29 2018 04:29:19 GMT+0100 (CET)"
+  },
+  {
+    "id": "8e63ca8c-fb50-4ed3-b2a8-aed9893aaf6c",
+    "name": "Papier toaletowy",
+    "amount": 9,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Jan 20 2018 02:28:30 GMT+0100 (CET)"
+  },
+  {
+    "id": "e2c7fad9-2ed4-4268-a4c8-e8082d309bab",
+    "name": "Tuńczyk",
+    "amount": null,
+    "price": 7.64,
+    "isChecked": false,
+    "date": "Fri Feb 09 2018 00:45:40 GMT+0100 (CET)"
+  },
+  {
+    "id": "a0ded205-babe-4d13-ae6a-3d3b63497217",
+    "name": "Papier toaletowy",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Feb 01 2018 21:10:08 GMT+0100 (CET)"
+  },
+  {
+    "id": "2c659db5-c011-428b-bcf4-70b28d209843",
+    "name": "Cornflakes",
+    "amount": null,
+    "price": 20.4,
+    "isChecked": false,
+    "date": "Sun Feb 25 2018 19:16:50 GMT+0100 (CET)"
+  },
+  {
+    "id": "6644ce2c-e746-49e2-91ce-e5717ea7af71",
+    "name": "Jedzenie dla psa",
+    "amount": null,
+    "price": 8.38,
+    "isChecked": false,
+    "date": "Thu Feb 22 2018 08:20:12 GMT+0100 (CET)"
+  },
+  {
+    "id": "0347e483-f433-4a8f-b905-986a7b3e6e04",
+    "name": "Cornflakes",
+    "amount": 4,
+    "price": 31.32,
+    "isChecked": false,
+    "date": "Sat Feb 24 2018 03:45:09 GMT+0100 (CET)"
+  },
+  {
+    "id": "93073a3b-4ad0-478d-820d-ecad529c6fb5",
+    "name": "Płyn do płukania",
+    "amount": 9,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Jan 21 2018 06:05:03 GMT+0100 (CET)"
+  },
+  {
+    "id": "2053612a-ce4c-484a-b5cb-e15a5621a959",
+    "name": "Sianko dla królika",
+    "amount": 5,
+    "price": 27.79,
+    "isChecked": true,
+    "date": "Sat Jan 20 2018 11:29:07 GMT+0100 (CET)"
+  },
+  {
+    "id": "b4bb1a53-a0ed-44c8-9f48-be7d3ef0e5da",
+    "name": "Cebula",
+    "amount": 3,
+    "price": 17.07,
+    "isChecked": true,
+    "date": "Wed Jan 10 2018 06:26:48 GMT+0100 (CET)"
+  },
+  {
+    "id": "8a3f15af-39e8-4f15-bf3b-b7c664c9e6ba",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": 14.48,
+    "isChecked": false,
+    "date": "Fri Feb 23 2018 07:01:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "422eae79-9189-4a01-af6e-49959c69394b",
+    "name": "Granola",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Feb 21 2018 06:29:15 GMT+0100 (CET)"
+  },
+  {
+    "id": "46e86b6b-66c3-4ad0-a47d-6575f2ccc901",
+    "name": "Sianko dla królika",
+    "amount": null,
+    "price": 29.21,
+    "isChecked": true,
+    "date": "Mon Feb 05 2018 17:38:13 GMT+0100 (CET)"
+  },
+  {
+    "id": "b17352e4-e87d-442b-a071-c0c005a8fa3f",
+    "name": "Kasza gryczana",
+    "amount": 7,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Feb 18 2018 15:20:45 GMT+0100 (CET)"
+  },
+  {
+    "id": "cae3069d-cf52-4d3a-99b7-4820e85094e9",
+    "name": "Tuńczyk",
+    "amount": 6,
+    "price": null,
+    "isChecked": true,
+    "date": "Thu Feb 15 2018 02:59:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "904e3297-bf26-4b1d-87ff-9bf346af8d63",
+    "name": "Płyn do płukania",
+    "amount": null,
+    "price": 7.39,
+    "isChecked": false,
+    "date": "Tue Feb 20 2018 21:56:27 GMT+0100 (CET)"
+  },
+  {
+    "id": "b6edced8-da83-4eea-ac83-edd923f2ac95",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Feb 27 2018 10:47:48 GMT+0100 (CET)"
+  },
+  {
+    "id": "fb049b77-d45f-4a69-978e-f8ff5a44b806",
+    "name": "Papier toaletowy",
+    "amount": 9,
+    "price": 23.66,
+    "isChecked": true,
+    "date": "Fri Feb 23 2018 10:55:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "250e1a1e-6d28-45c8-9550-dc05d22e96c0",
+    "name": "Cebula",
+    "amount": null,
+    "price": 22,
+    "isChecked": false,
+    "date": "Fri Feb 02 2018 02:01:43 GMT+0100 (CET)"
+  },
+  {
+    "id": "03a7b911-8c33-4b68-9174-169bad2e9e78",
+    "name": "Granola",
+    "amount": 4,
+    "price": 22.71,
+    "isChecked": false,
+    "date": "Wed Jan 03 2018 03:44:59 GMT+0100 (CET)"
+  },
+  {
+    "id": "29d907cc-a423-4dea-95fb-9019645b9c09",
+    "name": "Kasza gryczana",
+    "amount": null,
+    "price": 31.82,
+    "isChecked": false,
+    "date": "Sat Jan 27 2018 16:10:44 GMT+0100 (CET)"
+  },
+  {
+    "id": "a976d864-d5f0-4838-b4f2-bc51711a2b6f",
+    "name": "Jabłka",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Feb 05 2018 05:25:29 GMT+0100 (CET)"
+  },
+  {
+    "id": "636e46dd-1d67-4fb4-b3c2-fa45a0400908",
+    "name": "Mąka",
+    "amount": 1,
+    "price": 2.17,
+    "isChecked": true,
+    "date": "Sun Feb 18 2018 00:00:54 GMT+0100 (CET)"
+  },
+  {
+    "id": "ae673f85-4460-4d30-b0cd-0a6a29687fed",
+    "name": "Sianko dla królika",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Jan 16 2018 18:32:34 GMT+0100 (CET)"
+  },
+  {
+    "id": "1fe0f29a-de4a-4f3f-ae0b-2c853bc4be39",
+    "name": "Cukier brązowy",
+    "amount": 3,
+    "price": 16.36,
+    "isChecked": true,
+    "date": "Thu Feb 01 2018 09:39:30 GMT+0100 (CET)"
+  },
+  {
+    "id": "b319a195-33f9-401d-b34c-7a638854e8af",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": 20.44,
+    "isChecked": false,
+    "date": "Mon Feb 12 2018 13:34:28 GMT+0100 (CET)"
+  },
+  {
+    "id": "c87de479-206b-4d5c-8270-47594d6ad895",
+    "name": "Piwo",
+    "amount": 4,
+    "price": 21.22,
+    "isChecked": true,
+    "date": "Fri Jan 05 2018 14:02:50 GMT+0100 (CET)"
+  },
+  {
+    "id": "9bf3fc6a-a880-4e95-825c-12257dc558ad",
+    "name": "Ocet",
+    "amount": 9,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Jan 21 2018 17:03:07 GMT+0100 (CET)"
+  },
+  {
+    "id": "1dd448f2-5c7c-462d-b143-94541d1cd16c",
+    "name": "Oliwa",
+    "amount": 2,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Jan 29 2018 02:25:05 GMT+0100 (CET)"
+  },
+  {
+    "id": "72d39031-d54a-4459-b22b-e3e753dd3a84",
+    "name": "Płyn do naczyń",
+    "amount": 4,
+    "price": null,
+    "isChecked": true,
+    "date": "Mon Jan 15 2018 07:57:00 GMT+0100 (CET)"
+  },
+  {
+    "id": "b9c8f90d-abb7-4056-9061-abeba767e3d8",
+    "name": "Płyn do płukania",
+    "amount": null,
+    "price": 38.21,
+    "isChecked": true,
+    "date": "Sat Feb 03 2018 15:20:21 GMT+0100 (CET)"
+  },
+  {
+    "id": "46c59e4a-e7cd-42c2-88b4-f1d8a25b95f3",
+    "name": "Jabłka",
+    "amount": 7,
+    "price": 18.31,
+    "isChecked": true,
+    "date": "Wed Jan 17 2018 15:16:32 GMT+0100 (CET)"
+  },
+  {
+    "id": "b30bc067-5d04-4f97-8d66-8f0149b02b79",
+    "name": "Cornflakes",
+    "amount": 9,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Feb 26 2018 04:36:12 GMT+0100 (CET)"
+  },
+  {
+    "id": "641a31a1-151f-4a24-b261-36e2df64e046",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Thu Jan 18 2018 08:44:23 GMT+0100 (CET)"
+  },
+  {
+    "id": "a153e316-142e-4e26-ba2b-1bbba3f23397",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Jan 29 2018 20:52:54 GMT+0100 (CET)"
+  },
+  {
+    "id": "29e54f72-d7fc-41ea-bc11-2c59bd30bc15",
+    "name": "Płyn do płukania",
+    "amount": 4,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Feb 15 2018 23:49:31 GMT+0100 (CET)"
+  },
+  {
+    "id": "5919d7d2-3ec1-4a16-9a37-b554b0b37348",
+    "name": "Płyn do naczyń",
+    "amount": null,
+    "price": 9.86,
+    "isChecked": false,
+    "date": "Tue Feb 27 2018 14:28:47 GMT+0100 (CET)"
+  },
+  {
+    "id": "7addd1b5-9ded-48b9-b8e7-952f1e7444f4",
+    "name": "Mąka",
+    "amount": null,
+    "price": 38.52,
+    "isChecked": true,
+    "date": "Sat Jan 06 2018 08:10:25 GMT+0100 (CET)"
+  },
+  {
+    "id": "3f99a0a7-a9d7-4d24-8629-8a923b1adff2",
+    "name": "Piwo",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Jan 14 2018 21:02:49 GMT+0100 (CET)"
+  },
+  {
+    "id": "cbbc5b4f-dd07-4d76-831d-76a291d302ec",
+    "name": "Tuńczyk",
+    "amount": 6,
+    "price": 26.14,
+    "isChecked": true,
+    "date": "Tue Jan 09 2018 19:29:13 GMT+0100 (CET)"
+  },
+  {
+    "id": "3e2b1cd7-8d91-4b09-8d41-370c574b2b3e",
+    "name": "Cornflakes",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Fri Feb 23 2018 22:06:49 GMT+0100 (CET)"
+  },
+  {
+    "id": "58a649e5-c720-44b5-9ef6-435efda69db0",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": 27.98,
+    "isChecked": false,
+    "date": "Fri Feb 23 2018 16:21:48 GMT+0100 (CET)"
+  },
+  {
+    "id": "b50ef17c-b0bd-4d96-8e54-4f4647dec53f",
+    "name": "Tuńczyk",
+    "amount": 3,
+    "price": 28.14,
+    "isChecked": false,
+    "date": "Wed Jan 24 2018 22:09:39 GMT+0100 (CET)"
+  },
+  {
+    "id": "ba9b5b98-48d3-4754-9268-b11d2e8e9089",
+    "name": "Jedzenie dla psa",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Feb 20 2018 01:11:27 GMT+0100 (CET)"
+  },
+  {
+    "id": "c18343b0-37e4-4a12-a0a2-31f267df6037",
+    "name": "Worki na kupy",
+    "amount": 2,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Feb 21 2018 12:53:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "9e697768-448a-4c30-b6e1-c1d53926886d",
+    "name": "Papier toaletowy",
+    "amount": null,
+    "price": 6.41,
+    "isChecked": false,
+    "date": "Mon Jan 15 2018 18:53:43 GMT+0100 (CET)"
+  },
+  {
+    "id": "6bd11581-ab97-4fa2-b6d5-b9b0336511d9",
+    "name": "Jedzenie dla psa",
+    "amount": null,
+    "price": 38.7,
+    "isChecked": true,
+    "date": "Tue Jan 09 2018 00:50:25 GMT+0100 (CET)"
+  },
+  {
+    "id": "9f89ca6c-f1b4-4745-83ef-3d69dc5550b0",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": 36.67,
+    "isChecked": true,
+    "date": "Sun Jan 21 2018 02:40:13 GMT+0100 (CET)"
+  },
+  {
+    "id": "e65e6df8-3688-4019-84ed-fe26e94422a0",
+    "name": "Tuńczyk",
+    "amount": null,
+    "price": 33.39,
+    "isChecked": true,
+    "date": "Wed Jan 17 2018 20:52:22 GMT+0100 (CET)"
+  },
+  {
+    "id": "f2fa1a9a-45d8-4c24-8c00-f12bb7d18468",
+    "name": "Płyn do naczyń",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Feb 06 2018 06:01:25 GMT+0100 (CET)"
+  },
+  {
+    "id": "661c7057-1e44-4cc4-b80c-01d30123c9d8",
+    "name": "Piwo",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Jan 27 2018 13:50:33 GMT+0100 (CET)"
+  },
+  {
+    "id": "82bbbd96-5715-49af-8e4b-510826b4de72",
+    "name": "Płyn do płukania",
+    "amount": 7,
+    "price": 26.32,
+    "isChecked": true,
+    "date": "Sun Feb 04 2018 05:41:21 GMT+0100 (CET)"
+  },
+  {
+    "id": "cac43ccd-5352-4d81-a01d-846ea81c69dc",
+    "name": "Jabłka",
+    "amount": null,
+    "price": 36.57,
+    "isChecked": true,
+    "date": "Wed Feb 07 2018 02:23:31 GMT+0100 (CET)"
+  },
+  {
+    "id": "d98a93ac-541b-40b2-bd46-356c51fbb68a",
+    "name": "Kasza gryczana",
+    "amount": null,
+    "price": 14.16,
+    "isChecked": true,
+    "date": "Sat Feb 17 2018 04:58:58 GMT+0100 (CET)"
+  },
+  {
+    "id": "bf598d40-8506-4621-9691-1af40a845c8f",
+    "name": "Jedzenie dla psa",
+    "amount": null,
+    "price": 2.08,
+    "isChecked": false,
+    "date": "Thu Feb 15 2018 07:23:33 GMT+0100 (CET)"
+  },
+  {
+    "id": "ced6091c-423d-4c85-aa5a-cd388df8bca2",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Feb 23 2018 00:50:41 GMT+0100 (CET)"
+  },
+  {
+    "id": "14a449aa-c877-443a-aaf3-84ed0fb94bea",
+    "name": "Cebula",
+    "amount": null,
+    "price": 2.23,
+    "isChecked": false,
+    "date": "Wed Jan 31 2018 10:43:10 GMT+0100 (CET)"
+  },
+  {
+    "id": "941a57e6-ceff-40bc-9a7d-ef30ec337389",
+    "name": "Ziemniaki",
+    "amount": 2,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Jan 01 2018 11:56:59 GMT+0100 (CET)"
+  },
+  {
+    "id": "6a103e46-1573-47bb-8760-a47bc0c57a7e",
+    "name": "Wino białe wytrawne",
+    "amount": 5,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 23 2018 14:46:39 GMT+0100 (CET)"
+  },
+  {
+    "id": "f95f4be2-c452-4977-85ca-f08337fee392",
+    "name": "Oliwa",
+    "amount": null,
+    "price": 32.18,
+    "isChecked": false,
+    "date": "Sat Feb 03 2018 01:51:49 GMT+0100 (CET)"
+  },
+  {
+    "id": "4ab28ad4-7a26-4fd4-b645-9db5c158875f",
+    "name": "Jedzenie dla psa",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Wed Jan 24 2018 05:53:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "afc97d30-7feb-4b77-a64f-724e495669de",
+    "name": "Płyn do płukania",
+    "amount": null,
+    "price": 6.44,
+    "isChecked": true,
+    "date": "Mon Jan 22 2018 11:36:35 GMT+0100 (CET)"
+  },
+  {
+    "id": "28e9fc32-07b6-42b9-b6c9-b53f8747d753",
+    "name": "Płatki chocapic",
+    "amount": 7,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Feb 19 2018 08:11:29 GMT+0100 (CET)"
+  },
+  {
+    "id": "9f76f953-5bae-410b-b31a-24c7193d7397",
+    "name": "Oliwa",
+    "amount": 6,
+    "price": 4.75,
+    "isChecked": true,
+    "date": "Tue Feb 20 2018 05:51:57 GMT+0100 (CET)"
+  },
+  {
+    "id": "0b1e64d3-6125-423a-ac95-9d274867df10",
+    "name": "Cukier brązowy",
+    "amount": 2,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Feb 09 2018 04:57:15 GMT+0100 (CET)"
+  },
+  {
+    "id": "44c81a9c-dfb7-45db-8eb9-2d5bad3fd2ea",
+    "name": "Pieprz czarny",
+    "amount": 7,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Feb 09 2018 08:55:03 GMT+0100 (CET)"
+  },
+  {
+    "id": "83b4a470-4c3c-4f7c-854a-1ff83f6a028e",
+    "name": "Granola",
+    "amount": null,
+    "price": 25.24,
+    "isChecked": false,
+    "date": "Sun Jan 21 2018 03:02:00 GMT+0100 (CET)"
+  },
+  {
+    "id": "870b2515-0465-4b4c-9ef6-0cc2a6c27213",
+    "name": "Jabłka",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Feb 26 2018 07:36:07 GMT+0100 (CET)"
+  },
+  {
+    "id": "75c49f97-1a7e-41d4-b3a5-44c7ff5aeee9",
+    "name": "Tuńczyk",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sun Jan 14 2018 12:58:07 GMT+0100 (CET)"
+  },
+  {
+    "id": "13c9c86f-3e66-4579-933a-95cd6abe0e23",
+    "name": "Mąka",
+    "amount": null,
+    "price": 36.26,
+    "isChecked": false,
+    "date": "Sat Feb 03 2018 09:26:06 GMT+0100 (CET)"
+  },
+  {
+    "id": "3b0e605c-6a27-485a-8f49-0bdafccdb6a1",
+    "name": "Oliwa",
+    "amount": 3,
+    "price": 24.77,
+    "isChecked": false,
+    "date": "Thu Feb 15 2018 06:22:50 GMT+0100 (CET)"
+  },
+  {
+    "id": "546189c4-2e90-41d0-b7e2-70ed6c8f20eb",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": 26.79,
+    "isChecked": true,
+    "date": "Tue Feb 06 2018 04:00:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "b28fc180-23a0-481b-8eb5-1d951f23d879",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Feb 24 2018 06:27:28 GMT+0100 (CET)"
+  },
+  {
+    "id": "e432f2ce-93fd-4ca3-a03f-2402e95b3628",
+    "name": "Sianko dla królika",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Feb 10 2018 15:01:13 GMT+0100 (CET)"
+  },
+  {
+    "id": "b06a3536-af33-41ca-9ee4-bf0ff8dc432b",
+    "name": "Ocet",
+    "amount": 1,
+    "price": 9.86,
+    "isChecked": false,
+    "date": "Sun Feb 25 2018 03:13:49 GMT+0100 (CET)"
+  },
+  {
+    "id": "b63873f6-1c6e-43c9-9fad-257dd9f99fdf",
+    "name": "Mąka",
+    "amount": 1,
+    "price": 23.52,
+    "isChecked": true,
+    "date": "Thu Feb 08 2018 23:01:10 GMT+0100 (CET)"
+  },
+  {
+    "id": "592a9069-c716-4cd1-b463-8b79b8afee09",
+    "name": "Płatki chocapic",
+    "amount": 9,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Feb 01 2018 14:04:05 GMT+0100 (CET)"
+  },
+  {
+    "id": "3570dc24-8f29-4b86-b368-073a0dbba2f0",
+    "name": "Kasza gryczana",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Thu Jan 04 2018 19:36:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "a3eebfbc-f7f5-4d35-ad80-dc02d25b98c1",
+    "name": "Płatki chocapic",
+    "amount": 10,
+    "price": null,
+    "isChecked": true,
+    "date": "Mon Feb 19 2018 16:37:46 GMT+0100 (CET)"
+  },
+  {
+    "id": "a8a3e548-fcd1-40b4-ba46-faf4c7677e52",
+    "name": "Płyn do prania",
+    "amount": null,
+    "price": 32.93,
+    "isChecked": true,
+    "date": "Tue Jan 09 2018 12:38:41 GMT+0100 (CET)"
+  },
+  {
+    "id": "cc3e41ed-c4ea-4ac6-8c12-804febccd0b4",
+    "name": "Jedzenie dla psa",
+    "amount": 3,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Jan 02 2018 00:40:25 GMT+0100 (CET)"
+  },
+  {
+    "id": "bf44ab47-ab52-465c-ac20-19ab667a51e0",
+    "name": "Jabłka",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Mon Feb 05 2018 13:08:27 GMT+0100 (CET)"
+  },
+  {
+    "id": "b45771b4-daa7-4fe4-96a9-cb0d045c41d5",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Jan 02 2018 01:32:40 GMT+0100 (CET)"
+  },
+  {
+    "id": "6f2a4e94-a58c-413a-a21b-b77d23dc1c8e",
+    "name": "Cebula",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Wed Feb 07 2018 21:47:53 GMT+0100 (CET)"
+  },
+  {
+    "id": "0f29cc83-8a8f-4430-8054-0be037ee568f",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Feb 06 2018 18:50:56 GMT+0100 (CET)"
+  },
+  {
+    "id": "6687b56d-cd14-468f-91d4-ebc73bf30cba",
+    "name": "Cukier brązowy",
+    "amount": 1,
+    "price": 7.79,
+    "isChecked": true,
+    "date": "Fri Feb 02 2018 22:39:44 GMT+0100 (CET)"
+  },
+  {
+    "id": "c864a1d3-e6c6-4494-b8cd-cc13d247f853",
+    "name": "Jedzenie dla psa",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Wed Jan 03 2018 23:24:30 GMT+0100 (CET)"
+  },
+  {
+    "id": "b66701b8-f1b6-43d6-bfec-d61c9995b2e1",
+    "name": "Płyn do prania",
+    "amount": 5,
+    "price": null,
+    "isChecked": false,
+    "date": "Fri Jan 19 2018 11:07:30 GMT+0100 (CET)"
+  },
+  {
+    "id": "085b52e9-f7b4-4ed3-99a2-156b1962eb0c",
+    "name": "Mąka",
+    "amount": null,
+    "price": 25.62,
+    "isChecked": true,
+    "date": "Thu Jan 04 2018 00:45:07 GMT+0100 (CET)"
+  },
+  {
+    "id": "e0c5c445-f667-43e7-9ca2-18d0a83caf0e",
+    "name": "Cebula",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Feb 19 2018 15:13:57 GMT+0100 (CET)"
+  },
+  {
+    "id": "9e10d2c0-7e02-466d-9856-e23f931d096b",
+    "name": "Jabłka",
+    "amount": 8,
+    "price": 7,
+    "isChecked": false,
+    "date": "Thu Feb 01 2018 17:12:46 GMT+0100 (CET)"
+  },
+  {
+    "id": "fa88af0b-5102-42e9-a588-af7d736ddccd",
+    "name": "Płyn do płukania",
+    "amount": null,
+    "price": 17.84,
+    "isChecked": false,
+    "date": "Tue Feb 13 2018 04:06:48 GMT+0100 (CET)"
+  },
+  {
+    "id": "5ebf5279-06df-4102-b880-b01e7351c5eb",
+    "name": "Pieprz czarny",
+    "amount": 3,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Jan 13 2018 10:26:08 GMT+0100 (CET)"
+  },
+  {
+    "id": "02e17907-ad74-4531-9295-02ca9bc5088a",
+    "name": "Płyn do naczyń",
+    "amount": 6,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Feb 05 2018 08:30:09 GMT+0100 (CET)"
+  },
+  {
+    "id": "04b9eda2-9ad4-4fb4-bcdc-70803cf8a743",
+    "name": "Jabłka",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Feb 25 2018 18:55:24 GMT+0100 (CET)"
+  },
+  {
+    "id": "39a5f7f6-d1d9-4317-9b4e-a1a3a773bf85",
+    "name": "Cebula",
+    "amount": 7,
+    "price": 7.8,
+    "isChecked": false,
+    "date": "Sun Feb 18 2018 09:00:53 GMT+0100 (CET)"
+  },
+  {
+    "id": "f5050ed4-e138-4cdf-be8a-4d0b28a10fdc",
+    "name": "Jabłka",
+    "amount": null,
+    "price": 21.11,
+    "isChecked": false,
+    "date": "Wed Jan 24 2018 18:28:55 GMT+0100 (CET)"
+  },
+  {
+    "id": "bc1297f7-3e2a-4ca7-9161-70deac390a9d",
+    "name": "Tuńczyk",
+    "amount": 6,
+    "price": 27.79,
+    "isChecked": true,
+    "date": "Thu Jan 18 2018 06:42:58 GMT+0100 (CET)"
+  },
+  {
+    "id": "dcd7f80b-5f51-4259-af47-7f723b2c264c",
+    "name": "Płyn do prania",
+    "amount": null,
+    "price": 8.8,
+    "isChecked": true,
+    "date": "Fri Feb 09 2018 19:55:56 GMT+0100 (CET)"
+  },
+  {
+    "id": "3078ef05-d390-4ddb-afad-7fb72a853a94",
+    "name": "Wino białe wytrawne",
+    "amount": 3,
+    "price": null,
+    "isChecked": true,
+    "date": "Sun Jan 14 2018 14:28:03 GMT+0100 (CET)"
+  },
+  {
+    "id": "7fb78903-60e0-4083-96e7-7f57894ef653",
+    "name": "Ocet",
+    "amount": 3,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Jan 18 2018 18:43:27 GMT+0100 (CET)"
+  },
+  {
+    "id": "d17cfa57-486b-4fdc-a01e-2d590d4570b7",
+    "name": "Kasza gryczana",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Jan 31 2018 07:11:37 GMT+0100 (CET)"
+  },
+  {
+    "id": "4f7c2241-cece-4c13-a779-9182551aac4a",
+    "name": "Płyn do płukania",
+    "amount": 9,
+    "price": null,
+    "isChecked": true,
+    "date": "Thu Feb 01 2018 19:47:06 GMT+0100 (CET)"
+  },
+  {
+    "id": "c87ece75-cdd3-4a5d-90cd-8f983cee1e9f",
+    "name": "Płyn do naczyń",
+    "amount": 1,
+    "price": 14.97,
+    "isChecked": true,
+    "date": "Mon Feb 12 2018 11:17:42 GMT+0100 (CET)"
+  },
+  {
+    "id": "513760a6-1f2f-4596-8dfd-63bf6d1cf4ef",
+    "name": "Ziemniaki",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Feb 14 2018 04:04:19 GMT+0100 (CET)"
+  },
+  {
+    "id": "132c06f0-9ea2-4f38-8b58-877959f42cb7",
+    "name": "Sianko dla królika",
+    "amount": 4,
+    "price": null,
+    "isChecked": true,
+    "date": "Wed Jan 10 2018 19:00:12 GMT+0100 (CET)"
+  },
+  {
+    "id": "3a70d6ce-8c54-46e2-b8e4-c4701104cc87",
+    "name": "Płyn do płukania",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Feb 20 2018 12:55:45 GMT+0100 (CET)"
+  },
+  {
+    "id": "655d70e2-eefb-47c5-8eaf-8c0dc490ddba",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": 19.87,
+    "isChecked": true,
+    "date": "Wed Jan 10 2018 05:12:59 GMT+0100 (CET)"
+  },
+  {
+    "id": "b60e222d-ea14-405d-ae94-8acb17ee44bd",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": 33.47,
+    "isChecked": true,
+    "date": "Mon Jan 08 2018 14:17:26 GMT+0100 (CET)"
+  },
+  {
+    "id": "af66c6f6-294f-4675-8c98-4c9b25b9f8ee",
+    "name": "Piwo",
+    "amount": 10,
+    "price": 14.1,
+    "isChecked": false,
+    "date": "Mon Feb 19 2018 00:34:44 GMT+0100 (CET)"
+  },
+  {
+    "id": "d99e3ad7-d684-4482-a8b9-0c383a43f744",
+    "name": "Cebula",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Fri Feb 09 2018 02:35:48 GMT+0100 (CET)"
+  },
+  {
+    "id": "2d297189-5deb-4718-af4d-acc782ce6c72",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": 34.01,
+    "isChecked": true,
+    "date": "Tue Jan 30 2018 07:47:38 GMT+0100 (CET)"
+  },
+  {
+    "id": "3c9e3b75-ffbb-4e5d-9adc-127e9ac5eda3",
+    "name": "Kasza gryczana",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Thu Jan 04 2018 11:52:59 GMT+0100 (CET)"
+  },
+  {
+    "id": "da66d57e-9e26-48ba-b155-29da1b6e0370",
+    "name": "Jabłka",
+    "amount": 2,
+    "price": 28.34,
+    "isChecked": false,
+    "date": "Mon Jan 22 2018 00:50:36 GMT+0100 (CET)"
+  },
+  {
+    "id": "400db44f-5ab3-4556-b26a-e4df98499dcd",
+    "name": "Płyn do płukania",
+    "amount": 6,
+    "price": 36.07,
+    "isChecked": false,
+    "date": "Sun Feb 04 2018 00:03:47 GMT+0100 (CET)"
+  },
+  {
+    "id": "770bc03d-6d59-4875-92e7-d29d34713301",
+    "name": "Oliwa",
+    "amount": 1,
+    "price": null,
+    "isChecked": true,
+    "date": "Wed Jan 10 2018 23:00:58 GMT+0100 (CET)"
+  },
+  {
+    "id": "d3e7d78b-ac82-4e22-b774-8f4611e1aeec",
+    "name": "Granola",
+    "amount": 8,
+    "price": 3.97,
+    "isChecked": false,
+    "date": "Thu Jan 25 2018 04:22:36 GMT+0100 (CET)"
+  },
+  {
+    "id": "18cd6b5d-4740-49d8-a6a0-039d33ef95cd",
+    "name": "Papier toaletowy",
+    "amount": null,
+    "price": 35.4,
+    "isChecked": false,
+    "date": "Fri Feb 02 2018 14:34:03 GMT+0100 (CET)"
+  },
+  {
+    "id": "82ac6939-844d-4caa-bc52-4720d11814a0",
+    "name": "Oliwa",
+    "amount": 5,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Feb 10 2018 04:34:21 GMT+0100 (CET)"
+  },
+  {
+    "id": "9cecc092-57c7-49fd-b910-1d65add7bde0",
+    "name": "Tuńczyk",
+    "amount": 5,
+    "price": null,
+    "isChecked": true,
+    "date": "Mon Jan 29 2018 08:53:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "b0148340-b2ff-40d3-bbd9-6e39ba71e465",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": 7.22,
+    "isChecked": true,
+    "date": "Sun Jan 21 2018 10:43:46 GMT+0100 (CET)"
+  },
+  {
+    "id": "20910d0c-ecad-4ca3-8bef-a5f00572468d",
+    "name": "Piwo",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Jan 27 2018 17:12:34 GMT+0100 (CET)"
+  },
+  {
+    "id": "cae9113f-4398-48f3-84f4-5d2f3078fca6",
+    "name": "Cebula",
+    "amount": 6,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Feb 04 2018 21:54:44 GMT+0100 (CET)"
+  },
+  {
+    "id": "87034162-493e-42c0-b147-3d8152945fc1",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": 4.3,
+    "isChecked": true,
+    "date": "Wed Jan 31 2018 21:09:46 GMT+0100 (CET)"
+  },
+  {
+    "id": "20af8ad4-82a4-4fd9-a611-681e4101b4b4",
+    "name": "Mąka",
+    "amount": 1,
+    "price": null,
+    "isChecked": true,
+    "date": "Mon Feb 26 2018 19:35:16 GMT+0100 (CET)"
+  },
+  {
+    "id": "79316af1-7b94-4946-b13b-853919d5f902",
+    "name": "Ocet",
+    "amount": 4,
+    "price": null,
+    "isChecked": false,
+    "date": "Fri Feb 23 2018 13:22:00 GMT+0100 (CET)"
+  },
+  {
+    "id": "d978bc27-15dd-4782-b8d5-9c7842dab51f",
+    "name": "Jedzenie dla psa",
+    "amount": 2,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Jan 24 2018 15:31:31 GMT+0100 (CET)"
+  },
+  {
+    "id": "928a0c24-958c-40ef-92f9-5e4bf81cdce5",
+    "name": "Oliwa",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sun Feb 25 2018 18:25:34 GMT+0100 (CET)"
+  },
+  {
+    "id": "fa7dc28c-1169-4d4f-934e-d8a46f3d6c06",
+    "name": "Papier toaletowy",
+    "amount": null,
+    "price": 36.31,
+    "isChecked": true,
+    "date": "Mon Feb 05 2018 23:50:40 GMT+0100 (CET)"
+  },
+  {
+    "id": "a3701ae7-8402-4fdc-ac4f-50bf8addc95e",
+    "name": "Pieprz czarny",
+    "amount": null,
+    "price": 14.55,
+    "isChecked": true,
+    "date": "Thu Feb 01 2018 11:19:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "cbb6094d-d08a-4d14-ae32-b9266dcd4500",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": 22.1,
+    "isChecked": false,
+    "date": "Sat Feb 24 2018 18:02:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "3436d13f-73c1-428e-b85f-db204d46c20c",
+    "name": "Oliwa",
+    "amount": null,
+    "price": 12.29,
+    "isChecked": false,
+    "date": "Mon Jan 22 2018 06:36:58 GMT+0100 (CET)"
+  },
+  {
+    "id": "c6641e93-7cb0-40f3-9518-e1277f824c0d",
+    "name": "Piwo",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Wed Feb 07 2018 05:57:49 GMT+0100 (CET)"
+  },
+  {
+    "id": "ff961266-a533-4585-8836-6788c3f0c1da",
+    "name": "Cornflakes",
+    "amount": 8,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 16 2018 18:30:26 GMT+0100 (CET)"
+  },
+  {
+    "id": "6763b881-048d-4222-b9c3-e22b11707c7b",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Mon Feb 12 2018 14:39:11 GMT+0100 (CET)"
+  },
+  {
+    "id": "1f776b2c-703d-4887-a397-421fcfcddd92",
+    "name": "Kasza gryczana",
+    "amount": 3,
+    "price": 5.23,
+    "isChecked": true,
+    "date": "Thu Jan 04 2018 05:03:36 GMT+0100 (CET)"
+  },
+  {
+    "id": "b6264a11-2d21-4cb5-8e4b-21411f220e27",
+    "name": "Tuńczyk",
+    "amount": 4,
+    "price": 16.73,
+    "isChecked": false,
+    "date": "Sun Jan 07 2018 23:20:18 GMT+0100 (CET)"
+  },
+  {
+    "id": "577570e5-def7-4810-80ed-ea328bfc353b",
+    "name": "Kasza gryczana",
+    "amount": 5,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Feb 02 2018 18:33:23 GMT+0100 (CET)"
+  },
+  {
+    "id": "d3e87d7f-677f-4d84-bab1-717166f1cd77",
+    "name": "Ocet",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Feb 02 2018 13:36:13 GMT+0100 (CET)"
+  },
+  {
+    "id": "d7ac8b53-85f1-4575-9224-0990a9b3613b",
+    "name": "Granola",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Jan 23 2018 06:12:45 GMT+0100 (CET)"
+  },
+  {
+    "id": "7d059d56-0f04-4f3a-8c8b-f976a0d5bb1d",
+    "name": "Kasza gryczana",
+    "amount": 7,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Jan 13 2018 20:54:32 GMT+0100 (CET)"
+  },
+  {
+    "id": "2904ca47-3a57-4bcf-9892-f406cd9d4ba6",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": 4.63,
+    "isChecked": true,
+    "date": "Wed Feb 14 2018 19:17:53 GMT+0100 (CET)"
+  },
+  {
+    "id": "dae88f76-affb-4f21-8afc-f92b0cae0b75",
+    "name": "Wino białe wytrawne",
+    "amount": 2,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 02 2018 18:07:45 GMT+0100 (CET)"
+  },
+  {
+    "id": "5bba4eac-8f62-498e-bb0a-22009d668298",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": 33.07,
+    "isChecked": true,
+    "date": "Sat Feb 10 2018 23:33:57 GMT+0100 (CET)"
+  },
+  {
+    "id": "06c8f776-6465-451a-a72d-4053eebb47c3",
+    "name": "Wino białe wytrawne",
+    "amount": 8,
+    "price": 28.67,
+    "isChecked": false,
+    "date": "Tue Feb 20 2018 04:43:01 GMT+0100 (CET)"
+  },
+  {
+    "id": "6fe14b9a-86b7-4ac5-b7af-fdbb4f0fa0fc",
+    "name": "Kasza gryczana",
+    "amount": 8,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Jan 03 2018 16:49:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "a02da565-04c5-40ca-8867-42fc3b1dd0d0",
+    "name": "Mąka",
+    "amount": null,
+    "price": 3,
+    "isChecked": false,
+    "date": "Tue Jan 02 2018 11:51:43 GMT+0100 (CET)"
+  },
+  {
+    "id": "fdddd74e-0f42-4b43-a1bd-19278e9f3650",
+    "name": "Mąka",
+    "amount": null,
+    "price": 10.62,
+    "isChecked": false,
+    "date": "Mon Jan 08 2018 12:55:18 GMT+0100 (CET)"
+  },
+  {
+    "id": "6fa3d421-5a27-4862-9949-41641c6fb9b0",
+    "name": "Worki na kupy",
+    "amount": 2,
+    "price": null,
+    "isChecked": true,
+    "date": "Thu Feb 15 2018 22:58:56 GMT+0100 (CET)"
+  },
+  {
+    "id": "1245cfaf-dd5f-4693-a97e-c9e5efb5acf8",
+    "name": "Cornflakes",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Thu Jan 11 2018 03:34:36 GMT+0100 (CET)"
+  },
+  {
+    "id": "0979b81a-7a86-4b5a-b54e-6852989f6a24",
+    "name": "Cornflakes",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Fri Feb 09 2018 20:40:44 GMT+0100 (CET)"
+  },
+  {
+    "id": "032025ec-70e7-4f40-ac80-594c8f600a9a",
+    "name": "Ziemniaki",
+    "amount": 9,
+    "price": 10.46,
+    "isChecked": true,
+    "date": "Fri Jan 12 2018 02:16:30 GMT+0100 (CET)"
+  },
+  {
+    "id": "623caed1-7e41-47c6-80d8-98d3b4e65128",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Feb 22 2018 08:06:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "45dacc00-cf27-4701-9d88-7d1fb2795c0d",
+    "name": "Płyn do naczyń",
+    "amount": 4,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 16 2018 17:05:32 GMT+0100 (CET)"
+  },
+  {
+    "id": "a0ade0e8-8b20-4b4c-83db-013d1601cae6",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": 26.22,
+    "isChecked": false,
+    "date": "Wed Jan 17 2018 16:28:32 GMT+0100 (CET)"
+  },
+  {
+    "id": "92e8a95c-932d-4472-b5a3-61a8d600c2b0",
+    "name": "Mąka",
+    "amount": 10,
+    "price": 29.49,
+    "isChecked": false,
+    "date": "Wed Feb 21 2018 08:54:24 GMT+0100 (CET)"
+  },
+  {
+    "id": "9dccf00e-a0bf-45eb-ba29-100b5617a21b",
+    "name": "Pieprz czarny",
+    "amount": null,
+    "price": 7.82,
+    "isChecked": false,
+    "date": "Mon Jan 15 2018 12:39:19 GMT+0100 (CET)"
+  },
+  {
+    "id": "a27c2089-1b2b-43e9-867a-b80f01485425",
+    "name": "Jabłka",
+    "amount": 9,
+    "price": 23.21,
+    "isChecked": true,
+    "date": "Mon Jan 08 2018 14:48:18 GMT+0100 (CET)"
+  },
+  {
+    "id": "bfa8faac-d5cd-4e62-852b-57f282886863",
+    "name": "Pieprz czarny",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Thu Feb 01 2018 03:58:19 GMT+0100 (CET)"
+  },
+  {
+    "id": "cb468d74-349f-4442-85ca-144008b94c65",
+    "name": "Jedzenie dla psa",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Feb 24 2018 14:38:54 GMT+0100 (CET)"
+  },
+  {
+    "id": "07bd5a39-e246-4279-881e-66d22dab1711",
+    "name": "Płyn do prania",
+    "amount": null,
+    "price": 14.08,
+    "isChecked": false,
+    "date": "Tue Feb 27 2018 01:01:17 GMT+0100 (CET)"
+  },
+  {
+    "id": "cfe0645f-fe81-4ff9-9c6e-32e90e04ad42",
+    "name": "Kasza gryczana",
+    "amount": null,
+    "price": 22.18,
+    "isChecked": false,
+    "date": "Wed Jan 24 2018 15:36:32 GMT+0100 (CET)"
+  },
+  {
+    "id": "cebe61cb-991d-4769-9412-31f2445569a5",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Feb 26 2018 02:16:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "61d4e9c3-089b-48a0-a638-64d20700f5b1",
+    "name": "Kasza gryczana",
+    "amount": 7,
+    "price": null,
+    "isChecked": false,
+    "date": "Fri Feb 23 2018 21:53:53 GMT+0100 (CET)"
+  },
+  {
+    "id": "33b5ee9f-e77f-417a-85c2-39b10a1cfaf1",
+    "name": "Kasza gryczana",
+    "amount": null,
+    "price": 10.4,
+    "isChecked": true,
+    "date": "Sun Jan 07 2018 18:15:38 GMT+0100 (CET)"
+  },
+  {
+    "id": "9f2b3345-24d7-4031-88fd-0fcdbc416668",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": 12.59,
+    "isChecked": false,
+    "date": "Sun Feb 25 2018 18:23:29 GMT+0100 (CET)"
+  },
+  {
+    "id": "3a1ec428-44a2-4a14-9a4a-538c95108970",
+    "name": "Cebula",
+    "amount": 10,
+    "price": 10.57,
+    "isChecked": false,
+    "date": "Wed Jan 24 2018 21:21:04 GMT+0100 (CET)"
+  },
+  {
+    "id": "46dd34d4-f8ad-49a9-9ed7-c377b2e99b0c",
+    "name": "Cebula",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Jan 12 2018 17:18:21 GMT+0100 (CET)"
+  },
+  {
+    "id": "bffc845f-4ec9-4f51-8f3e-bf9de198b623",
+    "name": "Jabłka",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Feb 09 2018 09:50:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "d3b76219-655b-407d-818f-949ca6407e2d",
+    "name": "Piwo",
+    "amount": null,
+    "price": 22.51,
+    "isChecked": true,
+    "date": "Wed Jan 24 2018 00:33:11 GMT+0100 (CET)"
+  },
+  {
+    "id": "a951b596-dcf6-45d9-bb60-b2ff070ff434",
+    "name": "Granola",
+    "amount": 3,
+    "price": 38.46,
+    "isChecked": true,
+    "date": "Tue Jan 23 2018 06:05:19 GMT+0100 (CET)"
+  },
+  {
+    "id": "3f73e6c6-b438-4851-b0a2-c2ac03cdf400",
+    "name": "Papier toaletowy",
+    "amount": 10,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 02 2018 19:58:54 GMT+0100 (CET)"
+  },
+  {
+    "id": "5978de1a-4e5e-48c0-b2a4-b68270e34d99",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": 10.94,
+    "isChecked": false,
+    "date": "Thu Jan 25 2018 03:48:12 GMT+0100 (CET)"
+  },
+  {
+    "id": "74d92711-5c94-46c0-982b-a5078b0577c0",
+    "name": "Wino białe wytrawne",
+    "amount": 1,
+    "price": 37.41,
+    "isChecked": false,
+    "date": "Wed Feb 21 2018 21:23:59 GMT+0100 (CET)"
+  },
+  {
+    "id": "0bfc85d3-7fd4-4423-8b0d-0e457560208c",
+    "name": "Papier toaletowy",
+    "amount": 5,
+    "price": 38.29,
+    "isChecked": true,
+    "date": "Sat Jan 06 2018 03:15:58 GMT+0100 (CET)"
+  },
+  {
+    "id": "76153e64-d76e-40b0-ab92-48a43808f510",
+    "name": "Ziemniaki",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 09 2018 05:43:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "20477f78-ac8d-4ecf-90b7-7c8189509892",
+    "name": "Cebula",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Jan 26 2018 18:35:06 GMT+0100 (CET)"
+  },
+  {
+    "id": "7213c1d9-685d-438d-a41f-37b4ce4369ef",
+    "name": "Jabłka",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Wed Feb 07 2018 23:45:08 GMT+0100 (CET)"
+  },
+  {
+    "id": "3eceb04f-dea4-4d18-829d-3ae532f22f20",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": 9,
+    "isChecked": false,
+    "date": "Tue Feb 20 2018 19:54:03 GMT+0100 (CET)"
+  },
+  {
+    "id": "1dea5128-c345-4a54-932d-10e6a9dd2c07",
+    "name": "Tuńczyk",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Feb 03 2018 19:49:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "8e529425-795c-4eb2-ae1f-52882bc5ad9a",
+    "name": "Jedzenie dla psa",
+    "amount": 9,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Feb 22 2018 04:03:56 GMT+0100 (CET)"
+  },
+  {
+    "id": "50a1489c-40e8-4280-8824-e7977e0d3bcb",
+    "name": "Płyn do prania",
+    "amount": 1,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 30 2018 15:03:03 GMT+0100 (CET)"
+  },
+  {
+    "id": "afcaa6b9-2fb9-46d6-9939-1d620f669f3a",
+    "name": "Płyn do naczyń",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 16 2018 00:58:51 GMT+0100 (CET)"
+  },
+  {
+    "id": "f7e6a710-642c-4c4f-ae46-4361b569d83c",
+    "name": "Wino białe wytrawne",
+    "amount": 6,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Jan 10 2018 22:58:45 GMT+0100 (CET)"
+  },
+  {
+    "id": "3ffee98f-88f4-457b-9546-81f5e4515be1",
+    "name": "Papier toaletowy",
+    "amount": 2,
+    "price": 29.55,
+    "isChecked": false,
+    "date": "Sat Feb 03 2018 04:45:12 GMT+0100 (CET)"
+  },
+  {
+    "id": "2e7c4e8d-9947-42fb-bbd8-18972e792a62",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": 25.62,
+    "isChecked": false,
+    "date": "Sun Jan 07 2018 05:58:59 GMT+0100 (CET)"
+  },
+  {
+    "id": "dbb3c469-03fd-4308-a51b-7e2c6905bbf6",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": 30.73,
+    "isChecked": false,
+    "date": "Sun Feb 25 2018 05:03:40 GMT+0100 (CET)"
+  },
+  {
+    "id": "d9c4cfbb-4af7-4c98-ad00-a8526b458059",
+    "name": "Ziemniaki",
+    "amount": 9,
+    "price": 31.2,
+    "isChecked": true,
+    "date": "Fri Feb 09 2018 15:01:02 GMT+0100 (CET)"
+  },
+  {
+    "id": "b4efb57d-e856-45af-bad3-c06718e0d6fb",
+    "name": "Cornflakes",
+    "amount": 9,
+    "price": 19.4,
+    "isChecked": true,
+    "date": "Sun Jan 14 2018 13:30:30 GMT+0100 (CET)"
+  },
+  {
+    "id": "ccc53d8d-ee8c-40f4-bb25-baa9879ef8b0",
+    "name": "Płyn do prania",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Jan 19 2018 17:52:33 GMT+0100 (CET)"
+  },
+  {
+    "id": "96ca6430-e346-466d-9aad-6dc772dbffba",
+    "name": "Sianko dla królika",
+    "amount": null,
+    "price": 32.46,
+    "isChecked": true,
+    "date": "Wed Jan 03 2018 05:41:16 GMT+0100 (CET)"
+  },
+  {
+    "id": "ef824b73-a174-4419-840b-b16dcd658ff7",
+    "name": "Papier toaletowy",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Feb 11 2018 02:35:48 GMT+0100 (CET)"
+  },
+  {
+    "id": "d2e84845-1be5-4f07-8f76-ce46cb5d9258",
+    "name": "Cornflakes",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Feb 13 2018 17:15:35 GMT+0100 (CET)"
+  },
+  {
+    "id": "e514e83d-8b74-4728-bf1b-2af4f00c6e52",
+    "name": "Pieprz czarny",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Jan 17 2018 02:37:37 GMT+0100 (CET)"
+  },
+  {
+    "id": "903a6ebd-2dcb-4323-a35f-b58bfa72cdfe",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Jan 08 2018 05:49:30 GMT+0100 (CET)"
+  },
+  {
+    "id": "f4bc27c2-6c40-4d67-be3a-e9f013ba7698",
+    "name": "Granola",
+    "amount": 5,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Jan 04 2018 06:26:32 GMT+0100 (CET)"
+  },
+  {
+    "id": "0fd8f254-246e-472b-9c65-c0bb25369524",
+    "name": "Papier toaletowy",
+    "amount": null,
+    "price": 28.55,
+    "isChecked": true,
+    "date": "Sat Feb 24 2018 20:34:34 GMT+0100 (CET)"
+  },
+  {
+    "id": "513485a7-4e7c-4c6c-9ca0-6c0e6327e1f1",
+    "name": "Sianko dla królika",
+    "amount": 10,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Jan 21 2018 06:51:22 GMT+0100 (CET)"
+  },
+  {
+    "id": "cbb42a43-8fcf-44f2-842a-cdcaa6b4ba64",
+    "name": "Oliwa",
+    "amount": 6,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Jan 04 2018 15:44:09 GMT+0100 (CET)"
+  },
+  {
+    "id": "7b1ef3d1-bfa5-421a-9742-f9872330b2be",
+    "name": "Płatki chocapic",
+    "amount": 8,
+    "price": null,
+    "isChecked": true,
+    "date": "Sun Feb 25 2018 07:17:37 GMT+0100 (CET)"
+  },
+  {
+    "id": "ddea2304-be8f-4d45-8e40-1017f8cb70d6",
+    "name": "Wino białe wytrawne",
+    "amount": 6,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Jan 27 2018 04:44:15 GMT+0100 (CET)"
+  },
+  {
+    "id": "c2221f11-ddcc-415a-9ff2-1382243c41e5",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": 10.19,
+    "isChecked": false,
+    "date": "Tue Jan 16 2018 22:19:14 GMT+0100 (CET)"
+  },
+  {
+    "id": "3f11b9df-a381-4c2c-b0d0-e2237ed088f1",
+    "name": "Mąka",
+    "amount": 6,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Jan 05 2018 14:22:29 GMT+0100 (CET)"
+  },
+  {
+    "id": "bf46116f-d037-458e-aa10-3c051a513867",
+    "name": "Oliwa",
+    "amount": 10,
+    "price": null,
+    "isChecked": false,
+    "date": "Fri Feb 23 2018 10:24:53 GMT+0100 (CET)"
+  },
+  {
+    "id": "b306382c-ae9f-4951-b7a9-f9474ac7c0fb",
+    "name": "Sianko dla królika",
+    "amount": 4,
+    "price": null,
+    "isChecked": true,
+    "date": "Sun Feb 11 2018 02:50:50 GMT+0100 (CET)"
+  },
+  {
+    "id": "f353f973-9559-418b-8674-242f83368403",
+    "name": "Kasza gryczana",
+    "amount": 5,
+    "price": 15.9,
+    "isChecked": true,
+    "date": "Sun Jan 14 2018 12:26:27 GMT+0100 (CET)"
+  },
+  {
+    "id": "5ff05580-f8a4-4793-b19e-d7b5c63c2bdd",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Jan 10 2018 00:18:22 GMT+0100 (CET)"
+  },
+  {
+    "id": "d87d30eb-a2e6-4194-9e8c-047f99b246ef",
+    "name": "Oliwa",
+    "amount": null,
+    "price": 38.16,
+    "isChecked": true,
+    "date": "Fri Jan 26 2018 15:26:11 GMT+0100 (CET)"
+  },
+  {
+    "id": "9318cd05-7af2-4e94-b4c7-96cd56b9d52e",
+    "name": "Piwo",
+    "amount": 6,
+    "price": 24.77,
+    "isChecked": true,
+    "date": "Thu Feb 22 2018 17:58:57 GMT+0100 (CET)"
+  },
+  {
+    "id": "d5b85166-88c0-44df-86d2-60fe237d4b4b",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Feb 17 2018 13:20:22 GMT+0100 (CET)"
+  },
+  {
+    "id": "239d7323-994f-4a29-a178-50648a91badb",
+    "name": "Tuńczyk",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Feb 03 2018 12:23:23 GMT+0100 (CET)"
+  },
+  {
+    "id": "9bad4d66-42d6-4988-ad2a-e7054e5a81fa",
+    "name": "Mąka",
+    "amount": null,
+    "price": 20.74,
+    "isChecked": true,
+    "date": "Sun Feb 18 2018 14:33:00 GMT+0100 (CET)"
+  },
+  {
+    "id": "bcbfcee9-0991-47e3-a20e-e78a64865f6d",
+    "name": "Papier toaletowy",
+    "amount": 7,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Feb 18 2018 14:06:00 GMT+0100 (CET)"
+  },
+  {
+    "id": "3fe716a8-2c90-4e38-9e2c-41925d9c11c5",
+    "name": "Jabłka",
+    "amount": null,
+    "price": 9.58,
+    "isChecked": true,
+    "date": "Sun Feb 25 2018 11:37:26 GMT+0100 (CET)"
+  },
+  {
+    "id": "6bc17022-f868-43f1-9fa4-8c2af3e933af",
+    "name": "Płatki chocapic",
+    "amount": 9,
+    "price": 19.76,
+    "isChecked": false,
+    "date": "Mon Feb 19 2018 04:51:28 GMT+0100 (CET)"
+  },
+  {
+    "id": "d3def01f-6920-4ca1-a474-656de8cd3b56",
+    "name": "Ziemniaki",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Wed Feb 14 2018 14:03:03 GMT+0100 (CET)"
+  },
+  {
+    "id": "c35e907d-4004-4c80-b08b-ddc6c8bddc05",
+    "name": "Papier toaletowy",
+    "amount": null,
+    "price": 23.97,
+    "isChecked": true,
+    "date": "Tue Feb 06 2018 21:01:53 GMT+0100 (CET)"
+  },
+  {
+    "id": "393e9f85-ff71-48de-9571-5bd192977516",
+    "name": "Piwo",
+    "amount": 4,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Jan 17 2018 22:52:45 GMT+0100 (CET)"
+  },
+  {
+    "id": "f4097904-b6d0-4514-8ac0-3f9453c16148",
+    "name": "Jedzenie dla psa",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Wed Feb 07 2018 02:01:23 GMT+0100 (CET)"
+  },
+  {
+    "id": "5ff308ff-d2bf-4c5e-8648-79da1a870267",
+    "name": "Sianko dla królika",
+    "amount": null,
+    "price": 24.78,
+    "isChecked": true,
+    "date": "Sat Jan 13 2018 17:10:26 GMT+0100 (CET)"
+  },
+  {
+    "id": "4a1a95bb-3995-4895-85cf-be82b82996f4",
+    "name": "Ocet",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Thu Jan 11 2018 17:25:23 GMT+0100 (CET)"
+  },
+  {
+    "id": "2476af18-86eb-42f0-a568-63d42e9f86f1",
+    "name": "Jedzenie dla psa",
+    "amount": 2,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Jan 22 2018 13:44:12 GMT+0100 (CET)"
+  },
+  {
+    "id": "56b3e78c-acc3-47c1-8a08-539ece0f434d",
+    "name": "Mąka",
+    "amount": null,
+    "price": 20.95,
+    "isChecked": false,
+    "date": "Wed Jan 03 2018 04:17:07 GMT+0100 (CET)"
+  },
+  {
+    "id": "f8682a84-9b1d-4957-aba6-e2ad1feb0fcf",
+    "name": "Wino białe wytrawne",
+    "amount": null,
+    "price": 23.41,
+    "isChecked": true,
+    "date": "Fri Jan 05 2018 16:37:43 GMT+0100 (CET)"
+  },
+  {
+    "id": "6d20dc70-abbe-47f8-a053-671a992efc15",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Fri Feb 16 2018 18:38:58 GMT+0100 (CET)"
+  },
+  {
+    "id": "92a0acbe-d374-447a-a34c-36f28b5317c9",
+    "name": "Jabłka",
+    "amount": 1,
+    "price": 25.97,
+    "isChecked": false,
+    "date": "Tue Jan 23 2018 04:47:44 GMT+0100 (CET)"
+  },
+  {
+    "id": "b1bf359b-6dee-47f1-8470-fc76df087e6b",
+    "name": "Wino białe wytrawne",
+    "amount": 8,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Feb 03 2018 06:45:45 GMT+0100 (CET)"
+  },
+  {
+    "id": "04036797-a5a7-4149-945f-9d8d8a8066b6",
+    "name": "Mąka",
+    "amount": 6,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Feb 21 2018 18:44:28 GMT+0100 (CET)"
+  },
+  {
+    "id": "d86fb93f-f1e8-459d-9eff-7af2c3a9e483",
+    "name": "Cebula",
+    "amount": null,
+    "price": 4.09,
+    "isChecked": false,
+    "date": "Mon Feb 12 2018 04:43:34 GMT+0100 (CET)"
+  },
+  {
+    "id": "32309e47-0f78-4390-85da-a85af137e759",
+    "name": "Płyn do prania",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Feb 21 2018 10:32:50 GMT+0100 (CET)"
+  },
+  {
+    "id": "10bdec44-6ba3-490d-b89a-ca3a56e5ab47",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": 28.67,
+    "isChecked": false,
+    "date": "Sun Feb 04 2018 06:21:46 GMT+0100 (CET)"
+  },
+  {
+    "id": "44d88bc4-7b5f-44e8-b40a-aa5f51fbd10c",
+    "name": "Jabłka",
+    "amount": 2,
+    "price": 38.92,
+    "isChecked": false,
+    "date": "Sun Jan 21 2018 23:29:20 GMT+0100 (CET)"
+  },
+  {
+    "id": "56bf91c9-d5ff-4bdf-b3dd-295b949525c5",
+    "name": "Cornflakes",
+    "amount": 8,
+    "price": 9.11,
+    "isChecked": false,
+    "date": "Tue Feb 20 2018 16:18:36 GMT+0100 (CET)"
+  },
+  {
+    "id": "0da0f22e-33a6-49a1-a090-41f0217a8fa2",
+    "name": "Cebula",
+    "amount": null,
+    "price": 39.78,
+    "isChecked": true,
+    "date": "Wed Feb 14 2018 08:52:47 GMT+0100 (CET)"
+  },
+  {
+    "id": "6a10efaa-c2ba-4358-95bf-d3157a616125",
+    "name": "Ocet",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Feb 14 2018 09:54:48 GMT+0100 (CET)"
+  },
+  {
+    "id": "a2152d59-5fb8-4772-8024-f09abc7e9c43",
+    "name": "Tuńczyk",
+    "amount": null,
+    "price": 5.89,
+    "isChecked": false,
+    "date": "Mon Feb 19 2018 08:45:29 GMT+0100 (CET)"
+  },
+  {
+    "id": "00d648dd-2bda-46d5-b7a9-d02086b38837",
+    "name": "Ziemniaki",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Feb 21 2018 12:42:56 GMT+0100 (CET)"
+  },
+  {
+    "id": "54215561-d1dc-4791-8e95-5d387dbaff95",
+    "name": "Jabłka",
+    "amount": 5,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Jan 06 2018 07:46:08 GMT+0100 (CET)"
+  },
+  {
+    "id": "d4d585d0-20d7-4ebf-908d-c8fba0cdc1fd",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sun Jan 28 2018 02:14:40 GMT+0100 (CET)"
+  },
+  {
+    "id": "deebaabd-3c97-4b3f-89d5-ad78cd85b291",
+    "name": "Mąka",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Jan 03 2018 17:00:33 GMT+0100 (CET)"
+  },
+  {
+    "id": "20ec7d60-5979-4692-870c-b103391f4997",
+    "name": "Mąka",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 16 2018 20:46:12 GMT+0100 (CET)"
+  },
+  {
+    "id": "e1ad8340-3ab4-4fe6-a117-edfbb126ea9b",
+    "name": "Pieprz czarny",
+    "amount": 10,
+    "price": 36.36,
+    "isChecked": true,
+    "date": "Wed Feb 14 2018 09:14:20 GMT+0100 (CET)"
+  },
+  {
+    "id": "6acf8ee1-7d48-447f-b4b3-f899e21be6a9",
+    "name": "Ocet",
+    "amount": 4,
+    "price": 17.7,
+    "isChecked": false,
+    "date": "Mon Jan 01 2018 12:09:23 GMT+0100 (CET)"
+  },
+  {
+    "id": "683e928b-12a3-42fe-9275-4d18f7c8d705",
+    "name": "Ocet",
+    "amount": 9,
+    "price": 32.98,
+    "isChecked": false,
+    "date": "Sat Feb 24 2018 18:25:51 GMT+0100 (CET)"
+  },
+  {
+    "id": "51e81351-619c-451e-a1da-0cd57d8d8f4b",
+    "name": "Papier toaletowy",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Feb 17 2018 23:04:12 GMT+0100 (CET)"
+  },
+  {
+    "id": "22083e55-6bf5-4a3f-a82a-13f1b8f305f0",
+    "name": "Płyn do naczyń",
+    "amount": 8,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Feb 21 2018 02:58:54 GMT+0100 (CET)"
+  },
+  {
+    "id": "1e43e26b-2132-4c02-be63-976ac60708b4",
+    "name": "Jabłka",
+    "amount": 10,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Jan 22 2018 14:37:12 GMT+0100 (CET)"
+  },
+  {
+    "id": "92327f56-e0cf-4480-a304-6387a0315069",
+    "name": "Granola",
+    "amount": 10,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Jan 06 2018 13:47:30 GMT+0100 (CET)"
+  },
+  {
+    "id": "b59a9b02-d76b-4ea0-9d3e-fe685e199cb1",
+    "name": "Ziemniaki",
+    "amount": 2,
+    "price": 17.52,
+    "isChecked": false,
+    "date": "Fri Feb 02 2018 18:15:03 GMT+0100 (CET)"
+  },
+  {
+    "id": "786b9988-1758-46c9-9fc7-bfbe4fc633d7",
+    "name": "Kasza gryczana",
+    "amount": null,
+    "price": 11.75,
+    "isChecked": true,
+    "date": "Mon Feb 26 2018 02:17:38 GMT+0100 (CET)"
+  },
+  {
+    "id": "5d8d8287-9e78-4b05-b208-287f1a45850b",
+    "name": "Płyn do naczyń",
+    "amount": 2,
+    "price": 5.77,
+    "isChecked": false,
+    "date": "Sat Feb 03 2018 16:09:03 GMT+0100 (CET)"
+  },
+  {
+    "id": "826104bb-72d5-44a0-8265-6c75c49e9e10",
+    "name": "Ziemniaki",
+    "amount": null,
+    "price": 12.56,
+    "isChecked": true,
+    "date": "Tue Jan 30 2018 09:44:42 GMT+0100 (CET)"
+  },
+  {
+    "id": "22eb37d2-ce32-40f3-8abd-3da3b308a38b",
+    "name": "Mąka",
+    "amount": 9,
+    "price": 23.93,
+    "isChecked": false,
+    "date": "Sun Jan 07 2018 10:29:01 GMT+0100 (CET)"
+  },
+  {
+    "id": "3f849a0a-8a14-4da3-a223-04cd16840bfb",
+    "name": "Kasza gryczana",
+    "amount": 4,
+    "price": 37.9,
+    "isChecked": false,
+    "date": "Sun Feb 25 2018 14:57:07 GMT+0100 (CET)"
+  },
+  {
+    "id": "83de58e0-2e4b-4a6f-8e53-5904f855a72b",
+    "name": "Płatki chocapic",
+    "amount": 2,
+    "price": 18.46,
+    "isChecked": true,
+    "date": "Sun Feb 25 2018 23:22:27 GMT+0100 (CET)"
+  },
+  {
+    "id": "906f78c1-7075-47eb-9cb6-8e91fb1eacf8",
+    "name": "Ocet",
+    "amount": 2,
+    "price": 37.23,
+    "isChecked": false,
+    "date": "Sat Jan 27 2018 20:12:06 GMT+0100 (CET)"
+  },
+  {
+    "id": "08b2c303-b55a-4fd0-bb9b-c6c4cd50183f",
+    "name": "Płyn do płukania",
+    "amount": 1,
+    "price": null,
+    "isChecked": false,
+    "date": "Sun Jan 21 2018 07:06:41 GMT+0100 (CET)"
+  },
+  {
+    "id": "76358272-8240-4249-ae72-8209bce0c0f1",
+    "name": "Papier toaletowy",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Jan 06 2018 04:45:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "eab3ed0d-2c39-496b-bad8-2426c1e1631c",
+    "name": "Cukier brązowy",
+    "amount": null,
+    "price": 19.7,
+    "isChecked": true,
+    "date": "Fri Jan 05 2018 15:47:38 GMT+0100 (CET)"
+  },
+  {
+    "id": "a3017895-f88b-4279-9e6d-8f0fccec40b8",
+    "name": "Piwo",
+    "amount": 8,
+    "price": 32.03,
+    "isChecked": false,
+    "date": "Tue Feb 27 2018 22:18:56 GMT+0100 (CET)"
+  },
+  {
+    "id": "f10a119c-0783-4881-8f5c-c47b47b76721",
+    "name": "Płyn do prania",
+    "amount": null,
+    "price": 26.14,
+    "isChecked": false,
+    "date": "Sat Jan 27 2018 20:21:22 GMT+0100 (CET)"
+  },
+  {
+    "id": "43829874-2eeb-4729-aa4a-4cf5478a0285",
+    "name": "Ziemniaki",
+    "amount": 8,
+    "price": 31.59,
+    "isChecked": true,
+    "date": "Thu Feb 15 2018 18:13:05 GMT+0100 (CET)"
+  },
+  {
+    "id": "b0504628-61ff-4954-849e-8b5daca185e6",
+    "name": "Kasza gryczana",
+    "amount": 5,
+    "price": 18.52,
+    "isChecked": false,
+    "date": "Fri Jan 19 2018 12:45:07 GMT+0100 (CET)"
+  },
+  {
+    "id": "b72ddc2c-5831-4ab9-9971-4b211f34f7c7",
+    "name": "Tuńczyk",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Feb 10 2018 01:06:14 GMT+0100 (CET)"
+  },
+  {
+    "id": "8daab356-0020-4f4a-90e7-3576fdd7dab4",
+    "name": "Wino białe wytrawne",
+    "amount": 1,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Feb 07 2018 04:26:56 GMT+0100 (CET)"
+  },
+  {
+    "id": "e33782f1-99e5-46b5-a3b6-6a878b8e4ded",
+    "name": "Cebula",
+    "amount": null,
+    "price": 28.93,
+    "isChecked": false,
+    "date": "Wed Jan 31 2018 22:44:17 GMT+0100 (CET)"
+  },
+  {
+    "id": "d88c2942-bce0-4863-85a3-dd0dd8138f8d",
+    "name": "Tuńczyk",
+    "amount": null,
+    "price": 22.12,
+    "isChecked": true,
+    "date": "Tue Feb 13 2018 05:05:04 GMT+0100 (CET)"
+  },
+  {
+    "id": "07e8eb97-d62d-4320-8c52-8ad084b2caf8",
+    "name": "Płatki chocapic",
+    "amount": 2,
+    "price": 22.76,
+    "isChecked": false,
+    "date": "Sun Feb 25 2018 10:12:21 GMT+0100 (CET)"
+  },
+  {
+    "id": "8030993a-2cba-4c1b-a075-44bcd61de4f8",
+    "name": "Piwo",
+    "amount": 6,
+    "price": 8.39,
+    "isChecked": false,
+    "date": "Tue Jan 09 2018 15:52:11 GMT+0100 (CET)"
+  },
+  {
+    "id": "69c6a2f2-32b3-4531-8091-cbc49148f65a",
+    "name": "Kasza gryczana",
+    "amount": 9,
+    "price": 8.78,
+    "isChecked": true,
+    "date": "Wed Jan 17 2018 10:32:54 GMT+0100 (CET)"
+  },
+  {
+    "id": "5eacfd10-ace8-4ae4-abfb-69925e6edb19",
+    "name": "Worki na kupy",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Sat Feb 10 2018 19:19:05 GMT+0100 (CET)"
+  },
+  {
+    "id": "4d2ee7e6-2f9c-4547-a98d-435b460c2b6c",
+    "name": "Oliwa",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Thu Jan 25 2018 15:42:13 GMT+0100 (CET)"
+  },
+  {
+    "id": "9184bde3-0f48-4ff6-b2d2-948342e33d5e",
+    "name": "Piwo",
+    "amount": null,
+    "price": 6.03,
+    "isChecked": false,
+    "date": "Mon Jan 08 2018 02:22:07 GMT+0100 (CET)"
+  },
+  {
+    "id": "2796bd3b-f152-4366-be11-59c0c6cb67d1",
+    "name": "Oliwa",
+    "amount": 8,
+    "price": null,
+    "isChecked": false,
+    "date": "Wed Jan 17 2018 00:08:23 GMT+0100 (CET)"
+  },
+  {
+    "id": "10b59972-8af1-45bc-a8e4-7c826c046c91",
+    "name": "Płatki chocapic",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 02 2018 08:18:08 GMT+0100 (CET)"
+  },
+  {
+    "id": "0297b21c-fbe8-420f-ba28-ffe60dde088f",
+    "name": "Cornflakes",
+    "amount": 5,
+    "price": null,
+    "isChecked": false,
+    "date": "Mon Jan 15 2018 08:17:34 GMT+0100 (CET)"
+  },
+  {
+    "id": "1ce0ab16-fc0e-4e8c-b951-7a21e56f827c",
+    "name": "Ocet",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Feb 24 2018 02:21:52 GMT+0100 (CET)"
+  },
+  {
+    "id": "0c7eda0b-58e6-4afd-9604-1dbb55ddfeaf",
+    "name": "Granola",
+    "amount": null,
+    "price": null,
+    "isChecked": false,
+    "date": "Sat Jan 06 2018 17:32:13 GMT+0100 (CET)"
+  },
+  {
+    "id": "8c934b56-9225-4845-907a-f565feaddefc",
+    "name": "Płyn do naczyń",
+    "amount": null,
+    "price": null,
+    "isChecked": true,
+    "date": "Tue Jan 23 2018 06:22:37 GMT+0100 (CET)"
+  },
+  {
+    "id": "4f8a3f1c-274f-4a4c-98b8-d17ab294b50d",
+    "name": "Mąka",
+    "amount": 9,
+    "price": null,
+    "isChecked": false,
+    "date": "Tue Jan 09 2018 06:04:33 GMT+0100 (CET)"
+  },
+  {
+    "id": "af6f24d9-d604-411a-babb-c437062cbd8b",
+    "name": "Płyn do płukania",
+    "amount": 1,
+    "price": 18.36,
+    "isChecked": true,
+    "date": "Tue Feb 27 2018 08:56:27 GMT+0100 (CET)"
+  }
+]

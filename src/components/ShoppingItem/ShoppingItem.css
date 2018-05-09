@@ -1,0 +1,86 @@
+.container {
+  padding: 20px 20px 20px 10px;
+  border-bottom: 1px solid #e9e9e9;
+  vertical-align: middle;
+  transition: background 0.15s ease-out;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.container:last-child {
+  border-bottom: 0;
+}
+
+.container:hover {
+  background-color: #f9f9f9;
+}
+
+.check {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid rgb(153, 73, 136);
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.check.isChecked {
+  background:  rgb(153, 73, 136);
+}
+
+.name {
+  margin-right: 20px;
+}
+
+.price {
+  display: inline-block;
+  width: 120px;
+  font-size: 24px;
+  font-weight: 900;
+  margin-left: 20px;
+  text-align: right;
+}
+
+.amount {
+  color: rgb(153, 73, 136);
+  display: inline-block;
+  width: 40px;
+  font-size: 24px;
+  font-weight: 900;
+  margin-left: 20px;
+  text-align: right;
+  margin-left: 20px;
+}
+
+.data {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+
+.chart {
+  width: 150px;
+  border: 1px solid #e9e9e9;
+}
+
+.deleteButton {
+  position: absolute;
+  right: -6px;
+  padding: 0;
+  margin: 0;
+  border: 1px solid rgb(180, 180, 180);
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  cursor: pointer;
+  background: transparent;
+}
+
+.deleteButton:hover {
+  background-color: #e9e9e9;
+}
